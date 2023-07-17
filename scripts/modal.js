@@ -4,17 +4,17 @@ const dataProjects = [
     {
         title: 'Challenge Encriptador',
         date: '25 de Junho de 2023',
-        description: `editando... <br><br>
+        description: `Challenge proposto pela Alura + ONE <br><br>
 
-        editando... <br><br>
+        Neste projeto foram utilizadas as seguintes ferramentas: <br><br>
         
-        • editando...; <br>
-        • editando...; <br>
-        • editando...; <br>
-        • editando...; <br>
-        • editando...`, 
-        videoSrc: 'assets/projects/encriptador.jpg',
-        linkedin: '',
+        • HTML5; <br>
+        • JavaScript; <br>
+        • CSS3; <br><br>
+        
+        • O intuito deste projeto é disponibilizar um site capaz de encriptar e desemcriptar mensagens.`, 
+        videoSrc: 'assets/projects/encriptador.gif',
+        linkedin: 'https://www.linkedin.com/feed/update/urn:li:activity:7078601054052859904/',
         repository: 'https://github.com/moiseshilel/challenge-Encriptador',
         site: 'https://moiseshilel.github.io/challenge-Encriptador/'
 
@@ -24,13 +24,13 @@ const dataProjects = [
         date: '17 de Julho de 2023',
         description: `Neste desafio foi designado que fosse desenvolvido um conversor de moedas, com valores prefixados e um segundo conversor à escolha do aluno.<br><br>
 
-        Neste projeto foi usado as seguintes ferramentas: <br><br>
+        Neste projeto foram utilizadas as seguintes ferramentas: <br><br>
         
         • Java; <br>
         • Eclipse; <br>
         `, 
         videoSrc: 'assets/projects/conversor-moedas.gif',
-        linkedin: '',
+        linkedin: 'https://www.linkedin.com/feed/update/urn:li:activity:7086749507308142592/',
         repository: 'https://github.com/moiseshilel/conversor-moedas-java',
         site: 'https://github.com/moiseshilel/conversor-moedas-java'
 
