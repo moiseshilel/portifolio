@@ -21,18 +21,19 @@ const dataProjects = [
     },
     {
         title: 'Conversor de Moedas',
-        date: '2023',
-        description: `Foi proposto que fosse desenvolvido um conversor de moedas, com valores prefixados e um segundo conversor à escolha do aluno.<br><br>
+        date: '17 de Julho de 2023',
+        description: `Neste desafio foi designado que fosse desenvolvido um conversor de moedas, com valores prefixados e um segundo conversor à escolha do aluno.<br><br>
 
-        Esse projeto foi desenvolvido com as seguintes ferramentas: <br><br>
+        Neste projeto foi usado as seguintes ferramentas: <br><br>
         
         • Java; <br>
         • Eclipse; <br>
+
         `, 
         videoSrc: 'assets/projects/conversor.mp4',
         linkedin: '',
-        repository: 'https://github.com/moiseshilel/conversor-de-Moedas',
-        site: 'https://github.com/moiseshilel/conversor-de-Moedas'
+        repository: 'https://github.com/moiseshilel/conversor-moedas-java',
+        site: 'https://github.com/moiseshilel/conversor-moedas-java'
 
     },
     {
