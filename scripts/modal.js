@@ -29,7 +29,7 @@ const dataProjects = [
         • Java; <br>
         • Eclipse; <br>
         `, 
-        videoSrc: 'assets/projects/conversor.mp4',
+        videoSrc: 'assets/projects/conversor-moedas.gif',
         linkedin: '',
         repository: 'https://github.com/moiseshilel/conversor-moedas-java',
         site: 'https://github.com/moiseshilel/conversor-moedas-java'
@@ -50,16 +50,16 @@ const dataProjects = [
         site: 'https://moiseshilel.github.io/site-Barbearia-Alura/'
 
     },
-    {
-        title: 'Site Barbearia Alura',
-        date: '15 de Junho de 2023',
-        description: "---",
-        videoSrc: 'assets/projects/conversor.mp4',
-        linkedin: '',
-        repository: 'https://github.com/moiseshilel/site-Barbearia-Alura',
-        site: 'https://moiseshilel.github.io/site-Barbearia-Alura/'
+    // {
+    //     title: 'Site Barbearia Alura',
+    //     date: '15 de Junho de 2023',
+    //     description: "---",
+    //     videoSrc: 'assets/projects/conversor.mp4',
+    //     linkedin: '',
+    //     repository: 'https://github.com/moiseshilel/site-Barbearia-Alura',
+    //     site: 'https://moiseshilel.github.io/site-Barbearia-Alura/'
 
-    },
+    // },
 
 ]
 
