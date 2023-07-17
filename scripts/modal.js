@@ -6,13 +6,13 @@ const dataProjects = [
         date: '25 de Junho de 2023',
         description: `Challenge proposto pela Alura + ONE <br><br>
 
+        O intuito deste projeto é disponibilizar um site capaz de encriptar e desemcriptar mensagens.<br><br>
         Neste projeto foram utilizadas as seguintes ferramentas: <br><br>
-        
+
         • HTML5; <br>
         • JavaScript; <br>
-        • CSS3; <br><br>
-        
-        • O intuito deste projeto é disponibilizar um site capaz de encriptar e desemcriptar mensagens.`, 
+        • CSS3; <br>`, 
+
         videoSrc: 'assets/projects/encriptador.gif',
         linkedin: 'https://www.linkedin.com/feed/update/urn:li:activity:7078601054052859904/',
         repository: 'https://github.com/moiseshilel/challenge-Encriptador',
@@ -38,14 +38,17 @@ const dataProjects = [
     {
         title: 'Site Barbearia Alura',
         date: '15 de Junho de 2023',
-        description: `editando...; <br><br>
-        • editando...; <br>
-        • editando...;' <br>
-        • editando...; <br>
-        • editando...; <br>
-        • editando...;`,
-        videoSrc: 'assets/projects/sitebarbearia.jpg',
-        linkedin: '',
+        description: `Challenge proposto pela Alura + ONE ; <br><br>
+
+        Neste projeto foi solicitado criar 3 arquivos html, sendo eles, index, pagina de contato e pagina de produtos.<br><br>
+        Também foi solicitado que usassemos o CSS para estilizar o site e criamos efeitos.<br><br>
+
+        • HTML5; <br>
+        • CSS3; <br>
+        • JavaScript; <br><br>`,
+
+        videoSrc: 'assets/projects/sitebarbearia.gif',
+        linkedin: 'https://moiseshilel.github.io/portifolio/',
         repository: 'https://github.com/moiseshilel/site-Barbearia-Alura',
         site: 'https://moiseshilel.github.io/site-Barbearia-Alura/'
 
