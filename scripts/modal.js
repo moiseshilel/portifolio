@@ -2,6 +2,22 @@
 
 const dataProjects = [
     {
+        title: 'Conversor de Moedas',
+        date: '17 de Julho de 2023',
+        description: `Neste desafio foi designado que fosse desenvolvido um conversor de moedas, com valores prefixados e um segundo conversor à escolha do aluno.<br><br>
+
+        Neste projeto foram utilizadas as seguintes ferramentas: <br><br>
+        
+        • Java; <br>
+        • Eclipse; <br>
+        `, 
+        videoSrc: 'assets/projects/conversor-moedas.gif',
+        linkedin: 'https://www.linkedin.com/feed/update/urn:li:activity:7086749507308142592/',
+        repository: 'https://github.com/moiseshilel/conversor-moedas-java',
+        site: 'https://github.com/moiseshilel/conversor-moedas-java'
+
+    },
+    {
         title: 'Challenge Encriptador',
         date: '25 de Junho de 2023',
         description: `Challenge proposto pela Alura + ONE <br><br>
@@ -20,22 +36,6 @@ const dataProjects = [
 
     },
     {
-        title: 'Conversor de Moedas',
-        date: '17 de Julho de 2023',
-        description: `Neste desafio foi designado que fosse desenvolvido um conversor de moedas, com valores prefixados e um segundo conversor à escolha do aluno.<br><br>
-
-        Neste projeto foram utilizadas as seguintes ferramentas: <br><br>
-        
-        • Java; <br>
-        • Eclipse; <br>
-        `, 
-        videoSrc: 'assets/projects/conversor-moedas.gif',
-        linkedin: 'https://www.linkedin.com/feed/update/urn:li:activity:7086749507308142592/',
-        repository: 'https://github.com/moiseshilel/conversor-moedas-java',
-        site: 'https://github.com/moiseshilel/conversor-moedas-java'
-
-    },
-    {
         title: 'Site Barbearia Alura',
         date: '15 de Junho de 2023',
         description: `Challenge proposto pela Alura + ONE ; <br><br>
@@ -51,6 +51,24 @@ const dataProjects = [
         linkedin: 'https://moiseshilel.github.io/portifolio/',
         repository: 'https://github.com/moiseshilel/site-Barbearia-Alura',
         site: 'https://moiseshilel.github.io/site-Barbearia-Alura/'
+
+    },
+    {
+        title: 'Pokedex',
+        date: '22 de Outubro de 2023',
+        description: `Projeto realizado junto a DIO ; <br><br>
+
+        ------<br><br>
+        ------<br><br>
+
+        • HTML5; <br>
+        • CSS3; <br>
+        • JavaScript; <br><br>`,
+
+        videoSrc: 'assets/projects/pokedex.gif',
+        linkedin: 'https://moiseshilel.github.io/portifolio/',
+        repository: 'https://github.com/moiseshilel/js-developer-pokedex',
+        site: 'https://moiseshilel.github.io/js-developer-pokedex/'
 
     },
     // {

@@ -144,15 +144,17 @@ const initTypingAnimation = () => {
             })
 
         } else {
-            element.innerHTML = 'Desenvolvedor Back-end Java Junior'
+            element.innerHTML = 'Desenvolvedor Back-end Java / FullStack Python em Formação'
             const textToArray = element.innerHTML.split('')
-            element.innerHTML = ''
+            element.innerHTML = ''  
 
             textToArray.forEach((item, index) => {
                 setTimeout(() => element.innerHTML += item, 75 * index)
             })
+            
 
         }
+        
         
     }
 
