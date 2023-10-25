@@ -58,8 +58,8 @@ const dataProjects = [
         date: '22 de Outubro de 2023',
         description: `Projeto realizado junto a DIO ; <br><br>
 
-        ------<br><br>
-        ------<br><br>
+        Projeto em desenvolvimento... <br><br>
+        <br><br>
 
         • HTML5; <br>
         • CSS3; <br>
