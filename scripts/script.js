@@ -144,7 +144,7 @@ const initTypingAnimation = () => {
             })
 
         } else {
-            element.innerHTML = 'Desenvolvedor Back-end Java / FullStack Python em Formação'
+            element.innerHTML = 'Desenvolvedor FullStack / Back-end Java & Python'
             const textToArray = element.innerHTML.split('')
             element.innerHTML = ''  
 
